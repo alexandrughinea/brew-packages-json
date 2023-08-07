@@ -1,0 +1,327 @@
+[
+   {
+      "name":"vim",
+      "category":"Essential",
+      "url":"https://formulae.brew.sh/formula/vim"
+   },
+   {
+      "name":"git",
+      "category":"Essential",
+      "url":"https://formulae.brew.sh/formula/git"
+   },
+   {
+      "name":"tmux",
+      "category":"Essential",
+      "url":"https://formulae.brew.sh/formula/tmux"
+   },
+   {
+      "name":"htop",
+      "category":"Essential",
+      "url":"https://formulae.brew.sh/formula/htop"
+   },
+   {
+      "name":"python3",
+      "category":"Essential",
+      "url":"https://formulae.brew.sh/formula/python@3.9"
+   },
+   {
+      "name":"trash",
+      "category":"CLI Tools",
+      "url":"https://formulae.brew.sh/formula/trash"
+   },
+   {
+      "name":"tree",
+      "category":"CLI Tools",
+      "url":"https://formulae.brew.sh/formula/tree"
+   },
+   {
+      "name":"jq",
+      "category":"CLI Tools",
+      "url":"https://formulae.brew.sh/formula/jq"
+   },
+   {
+      "name":"rlwrap",
+      "category":"CLI Tools",
+      "url":"https://formulae.brew.sh/formula/rlwrap"
+   },
+   {
+      "name":"coreutils",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/coreutils"
+   },
+   {
+      "name":"neovim",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/neovim"
+   },
+   {
+      "name":"visual-studio-code",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/cask/visual-studio-code"
+   },
+   {
+      "name":"cmake (Cask)",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/cask/cmake"
+   },
+   {
+      "name":"ninja",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/ninja"
+   },
+   {
+      "name":"cocoapods",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/cocoapods"
+   },
+   {
+      "name":"openjdk",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/openjdk"
+   },
+   {
+      "name":"zulu8 (Cask)",
+      "category":"Development",
+      "url":"https://github.com/Homebrew/homebrew-cask-versions/blob/master/Casks/zulu8.rb"
+   },
+   {
+      "name":"node",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/node"
+   },
+   {
+      "name":"rustup-init",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/rustup-init"
+   },
+   {
+      "name":"processing (Cask)",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/cask/processing"
+   },
+   {
+      "name":"llvm",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/llvm"
+   },
+   {
+      "name":"ghidra",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/cask/ghidra"
+   },
+   {
+      "name":"sf-symbols (Cask)",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/cask/sf-symbols"
+   },
+   {
+      "name":"gh",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/gh"
+   },
+   {
+      "name":"gcenx/wine/wine-crossover (Cask)",
+      "category":"Development",
+      "url":"https://github.com/Gcenx/homebrew-wine/blob/master/Casks/wine-crossover.rb"
+   },
+   {
+      "name":"winetricks",
+      "category":"Development",
+      "url":"https://formulae.brew.sh/formula/winetricks"
+   },
+   {
+      "name":"postgresql",
+      "category":"Server",
+      "url":"https://formulae.brew.sh/formula/postgresql"
+   },
+   {
+      "name":"qemu",
+      "category":"Emulation/Virtualization",
+      "url":"https://formulae.brew.sh/formula/qemu"
+   },
+   {
+      "name":"utm (Cask)",
+      "category":"Emulation/Virtualization",
+      "url":"https://formulae.brew.sh/cask/utm"
+   },
+   {
+      "name":"docker (Cask)",
+      "category":"Containers",
+      "url":"https://formulae.brew.sh/cask/docker"
+   },
+   {
+      "name":"kubernetes-cli",
+      "category":"Containers",
+      "url":"https://formulae.brew.sh/formula/kubernetes-cli"
+   },
+   {
+      "name":"k9s",
+      "category":"Containers",
+      "url":"https://formulae.brew.sh/formula/k9s"
+   },
+   {
+      "name":"helm",
+      "category":"Containers",
+      "url":"https://formulae.brew.sh/formula/helm"
+   },
+   {
+      "name":"appcleaner (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/appcleaner"
+   },
+   {
+      "name":"appcleaner (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/appcleaner"
+   },
+   {
+      "name":"the-unarchiver (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/the-unarchiver"
+   },
+   {
+      "name":"coconutbattery (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/coconutbattery"
+   },
+   {
+      "name":"barrier (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/barrier"
+   },
+   {
+      "name":"raspberry-pi-imager (Cask)",
+      "category":"Utilities",
+      "url":"https://formulae.brew.sh/cask/raspberry-pi-imager"
+   },
+   {
+      "name":"firefox (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/firefox"
+   },
+   {
+      "name":"discord (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/discord"
+   },
+   {
+      "name":"mattermost (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/mattermost"
+   },
+   {
+      "name":"signal (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/signal"
+   },
+   {
+      "name":"zulip (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/zulip"
+   },
+   {
+      "name":"slack (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/slack"
+   },
+   {
+      "name":"zoom (Cask)",
+      "category":"Internet",
+      "url":"https://formulae.brew.sh/cask/zoom"
+   },
+   {
+      "name":"mactex (Cask)",
+      "category":"Productivity",
+      "url":"https://formulae.brew.sh/cask/mactex"
+   },
+   {
+      "name":"pdfpc",
+      "category":"Productivity",
+      "url":"https://formulae.brew.sh/formula/pdfpc"
+   },
+   {
+      "name":"libreoffice (Cask)",
+      "category":"Productivity",
+      "url":"https://formulae.brew.sh/cask/libreoffice"
+   },
+   {
+      "name":"zotero (Cask)",
+      "category":"Productivity",
+      "url":"https://formulae.brew.sh/cask/zotero"
+   },
+   {
+      "name":"font-jetbrains-mono (Cask)",
+      "category":"Fonts",
+      "url":"https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-jetbrains-mono.rb"
+   },
+   {
+      "name":"ffmpeg",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/formula/ffmpeg"
+   },
+   {
+      "name":"vlc (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/vlc"
+   },
+   {
+      "name":"spotify (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/spotify"
+   },
+   {
+      "name":"mixxx (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/mixxx"
+   },
+   {
+      "name":"blender (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/blender"
+   },
+   {
+      "name":"obs (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/obs"
+   },
+   {
+      "name":"blackhole-2ch (Cask)",
+      "category":"Audio/Video",
+      "url":"https://formulae.brew.sh/cask/blackhole-2ch"
+   },
+   {
+      "name":"gimp (Cask)",
+      "category":"Graphics",
+      "url":"https://formulae.brew.sh/cask/gimp"
+   },
+   {
+      "name":"inkscape (Cask)",
+      "category":"Graphics",
+      "url":"https://formulae.brew.sh/cask/inkscape"
+   },
+   {
+      "name":"prusaslicer (Cask)",
+      "category":"CAD",
+      "url":"https://formulae.brew.sh/cask/prusaslicer"
+   },
+   {
+      "name":"openscad (Cask)",
+      "category":"CAD",
+      "url":"https://formulae.brew.sh/cask/openscad"
+   },
+   {
+      "name":"epic-games (Cask)",
+      "category":"Gaming",
+      "url":"https://formulae.brew.sh/cask/epic-games"
+   },
+   {
+      "name":"steam (Cask)",
+      "category":"Gaming",
+      "url":"https://formulae.brew.sh/cask/steam"
+   },
+   {
+      "name":"prismlauncher (Cask)",
+      "category":"Gaming",
+      "url":"https://formulae.brew.sh/cask/prismlauncher"
+   }
+]
