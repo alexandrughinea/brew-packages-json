@@ -386,9 +386,27 @@
       "cask": true
    },
    {
-      "name": "prismlauncher",
-      "category": "Gaming",
+      "name": "prismlauncher", 
+      "category": "Utilities",
       "url": "https://formulae.brew.sh/cask/prismlauncher",
       "cask": true
-   }
+   },
+   {
+      "name": "betterdisplay", 
+      "category": "Utilities",
+      "url": "https://formulae.brew.sh/cask/betterdisplay",
+      "cask": true
+   },
+   {
+      "name": "alt-tab", 
+      "category": "Utilities",
+      "url": "https://formulae.brew.sh/cask/alt-tab",
+      "cask": true
+   },
+   {
+      "name": "amethyst", 
+      "category": "Utilities",
+      "url": "https://formulae.brew.sh/cask/amethyst",
+      "cask": true
+   }   
 ]
